@@ -12,7 +12,7 @@ apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/M2SPRO/S
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-CoutySSH
+M2SPRO
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
