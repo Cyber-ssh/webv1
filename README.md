@@ -6,18 +6,18 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/M2SPRO/SSH-WEB/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/Cyber-ssh/webv1/ubuinst.sh)
 ```
 </br>
 
 # 𓊈𒆜 CHAVE DE INSTALAÇÃO! 𒆜𓊉
 ```
-M2SPRO
+@Cyberssh
 ```
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/M2SPRO/SSH-WEB/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/Cyber-ssh/webv1/sincpainel.sh)
 ```
 
 # 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
